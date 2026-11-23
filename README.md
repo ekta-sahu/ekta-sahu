@@ -31,7 +31,8 @@ Currently focused on strengthening my programming fundamentals, exploring web de
 
 ### Connect With Me
 
-- GitHub: [@your-username](https://github.com/your-username)
+- Email: [mail@ektasahu.com](mailto:mail@ektasahu.com)
+- LinkedIn: [ekta-ssh](https://www.linkedin.com/in/ekta-ssh/)
 
 ---
 
